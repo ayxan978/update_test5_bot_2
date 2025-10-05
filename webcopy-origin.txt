@@ -1,0 +1,348 @@
+Uri: https://api.s.mindbox.ru/scripts/v1/tracker.js?v=1759322175380
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\scripts\v1\tracker.js
+Content Type: text/javascript
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w9.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w9.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\montserrat\v31\JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4k.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4k.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4k.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4k.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4k.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4k.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4k.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4k.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4k.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4k.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4k.woff
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4k.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\s\opensans\v44\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2
+Content Type: font/woff2
+
+Uri: https://mc.yandex.ru/watch/93826581
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\watch\93826581
+Content Type: image/gif
+
+Uri: https://telegram.org/js/telegram-web-app.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\js\telegram-web-app.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\index.htm
+Content Type: text/html
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdelivery.20d3343e.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\delivery.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdelivery.20d3343e.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\delivery-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdiscount.eef78ba9.jpg&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\discount.jpeg
+Content Type: image/jpeg
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdiscount.eef78ba9.jpg&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\discount-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffaq.254be8b9.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\faq.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffaq.254be8b9.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\faq-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhow-to-buy.bd671e3a.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\how-to-buy.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhow-to-buy.bd671e3a.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\how-to-buy-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finvest.0ab5b975.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\invest.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finvest.0ab5b975.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\invest-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-1.c0357393.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-1-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-1.c0357393.png&w=640&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-2.a98439b1.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-2-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-2.a98439b1.png&w=640&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-2.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-3.5bd8286a.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-3-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-3.5bd8286a.png&w=640&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-3.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-4.b494aa51.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-4-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-4.b494aa51.png&w=640&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-4.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-5.981e1f03.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-5-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-5.981e1f03.png&w=640&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-5.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-6.21365acc.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-6-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flook-6.21365acc.png&w=640&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\look-6.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpickup-from-MSC.40795a6a.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\pickup-from-MSC.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpickup-from-MSC.40795a6a.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\pickup-from-MSC-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frefer-friend.511a6d1e.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\refer-friend.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frefer-friend.511a6d1e.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\refer-friend-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fresail.7767aee8.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\resail.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fresail.7767aee8.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\resail-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fshopping-live.561d89c7.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\shopping-live.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fshopping-live.561d89c7.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\shopping-live-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsize.3fbc00a3.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\size.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsize.3fbc00a3.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\size-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsplit.2e40af9c.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\split.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsplit.2e40af9c.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\split-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funicorn.aba83df1.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\unicorn.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funicorn.aba83df1.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\unicorn-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwarranties-and-security.fbb05947.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\warranties-and-security.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwarranties-and-security.fbb05947.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\warranties-and-security-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwhat-we-sell.5c1c4dc4.png&w=256&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\what-we-sell.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwhat-we-sell.5c1c4dc4.png&w=96&q=75
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\what-we-sell-1.png
+Content Type: image/png
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/767-54049d4fbdde0215.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\767-54049d4fbdde0215.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/897-92f69cae1f2c9101.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\897-92f69cae1f2c9101.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/framework-2625194f126dc4d1.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\framework-2625194f126dc4d1.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/main-a9d90b7a3465bbe8.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\main-a9d90b7a3465bbe8.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/pages/index-b1c2df17d20c1d00.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\pages\index-b1c2df17d20c1d00.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/pages/_app-be8360d966dbe6fd.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\pages\_app-be8360d966dbe6fd.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/chunks/webpack-5be0c9d2d23581ee.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\chunks\webpack-5be0c9d2d23581ee.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/css/b1077f2c10a07d58.css
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\css\b1077f2c10a07d58.css
+Content Type: text/css
+
+Uri: https://webapp.unicorngo.ru/_next/static/css/b3696f6f05443b17.css
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\css\b3696f6f05443b17.css
+Content Type: text/css
+
+Uri: https://webapp.unicorngo.ru/_next/static/hhT_8BiJKCAlDfPTcJqcB/_buildManifest.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\hhT_8BiJKCAlDfPTcJqcB\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/hhT_8BiJKCAlDfPTcJqcB/_ssgManifest.js
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\hhT_8BiJKCAlDfPTcJqcB\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://webapp.unicorngo.ru/_next/static/media/poizon-icon.8b916dc2.webp
+File Name: C:\Users\ASUS\Downloads\uni2\webapp.unicorngo.ru\_next\static\media\poizon-icon.8b916dc2.webp
+Content Type: image/webp
+
